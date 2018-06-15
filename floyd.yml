@@ -1,0 +1,7 @@
+env: tensorflow-1.7
+machine: cpu
+data:
+  - source: floydhub/datasets/syd/1
+    destination: syd
+  - source: floydhub/datasets/pretrained-ssdlite-where-is-syd/1
+    destination: pretrained

@@ -1,8 +1,5 @@
 # Object Detection
 
-Hi 🙂, if you are seeing this notebook, you have succesfully started your first project on FloydHub 🚀, hooray!!
-
-
 Recently the Chinese Police was on the first page of the most famous newspapers because they have succesfully detected a criminal in a pop concert with 60k people from security cameras using a facial recognition system. Here's a [link of the news](http://www.bbc.com/news/world-asia-china-43751276) if you missed it. This is not the first time that they used the same technology to catch criminals, but it is certainly quite amazing what this technology is able to achieve.
 
 ## "Where is Syd?"
