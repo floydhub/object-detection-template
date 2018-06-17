@@ -2,6 +2,12 @@
 
 Recently the Chinese Police was on the first page of the most famous newspapers because they have succesfully detected a criminal in a pop concert with 60k people from security cameras using a facial recognition system. Here's a [link of the news](http://www.bbc.com/news/world-asia-china-43751276) if you missed it. This is not the first time that they used the same technology to catch criminals, but it is certainly quite amazing what this technology is able to achieve.
 
+### Try it now
+
+[![Run on FloydHub](https://s3-us-west-2.amazonaws.com/floydhub-assets/button/button.svg)](https://floydhub.com/run?template=https://github.com/floydhub/object-detection-template)
+
+Click this button to open a Workspace on FloydHub that will train this model.
+
 ## "Where is Syd?"
 
 In this project, we will use [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) to detect Syd. It turns out that Syd participated to several Sport events of the last years, mostly during the opening ceremony. Unfortunately, we were able to get only some images of him during the ceremonies... but don't worry, Transfer Learning comes to help. We will use a pre-trained SSD model on COCO dataset to find Syd. If the trained model we will be good enough we will be able to detect Syd in the next games and tell to your family & friends: 'Look there, it's Syd! I found him ;)'.
